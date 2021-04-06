@@ -1,0 +1,56 @@
+.ri{
+	background-color: yellow;
+	float: left;
+	width: 50%;
+	height: 200px;
+	margin-right: 5px;
+	text-align: center;
+}
+.ro{
+	background-color: green;
+	float: left;
+	width: 49%;
+	height: 200px;
+	text-align: center;
+}
+.a{
+	clear: both;
+}
+.ra{
+	background-color:red;
+	height: 150px;
+	margin-top: 10px;
+}
+.re{
+	float: left;
+	margin-right: 10px;
+	background-color: yellow;
+	width: 10%;
+	height: 49px;
+	margin-top: 20px;
+	margin-left: 10px;
+}
+.a{
+	clear: both;
+}
+.rp{
+	margin-top: 10px;
+}
+.rt{
+    float: left;
+    background-color: blue;
+    width: 34%;
+    height: 200px;
+    margin-right: 5px;
+}
+.ry{
+	float: left;
+	background-color: purple;
+	height: 200px;
+	width: 65%;
+}
+.ru{
+	background-color: skyblue;
+	height: 200px;
+	margin-top: 10px;
+}	
