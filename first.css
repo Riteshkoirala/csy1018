@@ -1,0 +1,45 @@
+.ONE{
+	background-color: PINK;
+	margin-top: 20PX;
+	height: 100PX;
+}
+.TWO{
+	background-color: YELLOW;
+	margin-right: 20PX;
+	margin-left: 20PX;
+	padding-top: 20PX;
+	float: left;
+	margin-top: 20PX;
+	height: 50PX;
+	width: 100PX;
+	padding-left: 20PX;
+	position: sticky;
+}
+.THREE{
+	background-color: SKYBLUE;
+	padding-top: 20PX;
+	padding-left: 20PX;
+	height: 100PX;
+	margin-top: 20PX;	
+}
+.FOUR{
+	float: left;
+	width: 50%;
+	height:600PX;
+	background-color: YELLOW;
+}
+.SIX{
+    float: left;
+	width: 50%;
+	height:600PX;
+	background-color: ORANGE;	
+}
+.A{
+	clear: both;
+}
+.FIVE{
+	height: 100PX;
+	background-color: PURPLE;
+	padding-left: 20PX;
+	padding-top: 20PX
+}
